@@ -24,8 +24,8 @@ See the `TestFolder` directory for test files and examples.
 
 ### Cat
 ```
- /\_/\  
-( o.o ) 
+ /\_/\
+( o.o )
  > ^ <
 ```
 
