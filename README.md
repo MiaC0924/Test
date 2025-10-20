@@ -1,5 +1,25 @@
 # 📁 Test Repository
 
+```
+       ___
+      /   \
+     | o o |
+      \ ~ /
+      (   )
+     /|   |\
+    / |   | \
+   /  |   |  \
+  (   |___|   )
+   \  /   \  /
+    \/     \/
+    ||     ||
+    ||     ||
+   _||_   _||_
+  |____|_|____|
+  
+   Maltese Dog
+```
+
 ## 📋 Overview
 This is a test repository for demonstration and testing purposes.
 
