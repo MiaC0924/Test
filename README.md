@@ -17,7 +17,7 @@
    _||_   _||_                    _||_   _||_
   |____|_|____|                  |____|_|____|
   
-   Maltese Dog                     Maltese Dog
+   Maltese Dog                      Maltese Dog
 ```
 
 ## 📋 Overview
