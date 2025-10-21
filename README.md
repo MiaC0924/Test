@@ -6,6 +6,12 @@
  > ^ <
 ```
 
+```
+ /\_/\
+( ^.^ )
+ > ^ <
+```
+
 ## 📋 Overview
 This is a test repository for demonstration and testing purposes.
 
