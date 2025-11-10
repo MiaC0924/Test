@@ -16,6 +16,9 @@ This is a test repository for demonstration and testing purposes.
 ## 📂 Structure
 - `README.md` - This documentation file
 - `TestFolder/` - Contains test files and examples
+- `ExampleFolder/` - Contains example content and demonstrations
+- `DocumentsFolder/` - Contains documentation and reference materials
+- `SamplesFolder/` - Contains sample files and formats
 
 ## 🧪 Testing
 See the `TestFolder` directory for test files and examples.
