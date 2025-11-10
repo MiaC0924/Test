@@ -1,5 +1,28 @@
 # 📁 Test Repository
 
+```
+                       __
+                 ,.--""  """--.._
+                /   ,              `.
+               /   /                 \
+              ;   |         |         ;
+              ;   |    \    |    /    ;
+              ;    \    \   |   /    ;
+               \    `.  `\  |  /,'  ,'
+                `.    `-._ \|_//,-'  ,'
+                  `-.__ _>|=|<__ ,-'
+                       (_(~)_)
+                        /| |\
+                       ( | | )
+                        \| |/
+                        |~ ~|
+                        |   |
+                       /    |
+                      |_____|
+```
+
+*Welcome! Here's a very cool ASCII art dog!*
+
 ## 📋 Overview
 This is a test repository for demonstration and testing purposes.
 
