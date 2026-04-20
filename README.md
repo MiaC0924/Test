@@ -20,5 +20,28 @@ This is a test repository for demonstration and testing purposes.
 ## 🧪 Testing
 See the `TestFolder` directory for test files and examples.
 
+## 🐦 Bird
+
+```
+        .----------------.
+       /                  \
+      /    ___      ___    \
+     |    (o o)    (o o)   |
+      \    \ /      \ /   /
+       \    V        V   /
+        '--.__        __.'
+              `------'
+        .-""-.__.-""-.
+       /   .--. .--. \
+      / .-'    '    '-.\
+     | /   /\    /\   \ |
+     |/   /  \  /  \   \|
+      \  / .-'\/'-. \  /
+       \/  |  /\  |  \/
+        \  '-'  '-'  /
+    ~^~  `--------'  ~^~
+    ~^~^~  A Bird  ~^~^~
+```
+
 ## 🤝 Contributing
 This is a test repository. Feel free to experiment and test changes.
