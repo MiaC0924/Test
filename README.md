@@ -16,6 +16,7 @@ This is a test repository for demonstration and testing purposes.
 ## 📂 Structure
 - `README.md` - This documentation file
 - `TestFolder/` - Contains test files and examples
+- `docs/dogs.md` - 🐶 Dog images gallery (10 breeds)
 
 ## 🧪 Testing
 See the `TestFolder` directory for test files and examples.
