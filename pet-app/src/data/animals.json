@@ -1,0 +1,526 @@
+{
+  "categories": [
+    {
+      "id": "cats",
+      "label": "Cats",
+      "emoji": "🐱",
+      "description": "Graceful, curious companions with a wide range of personalities.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Persian_cat_(flipped).jpg",
+      "breeds": [
+        {
+          "id": "persian",
+          "name": "Persian",
+          "description": "Persians are calm, gentle cats known for their long, luxurious coats and sweet expressions. They thrive in quiet indoor environments and love being pampered.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Persian_cat_(flipped).jpg",
+          "traits": ["calm", "affectionate", "indoor", "long-haired", "small"],
+          "characteristics": {
+            "Size": "Small to medium",
+            "Temperament": "Calm and affectionate",
+            "Energy": "Low",
+            "Coat": "Long and dense",
+            "Grooming": "High"
+          },
+          "funFacts": [
+            "Persians are one of the oldest known cat breeds.",
+            "Their flat faces and plush coats make them popular show cats."
+          ]
+        },
+        {
+          "id": "siamese",
+          "name": "Siamese",
+          "description": "Siamese cats are vocal, social, and highly intelligent, often forming strong bonds with their owners and following them around the house.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Siamese_cat.jpg",
+          "traits": ["vocal", "social", "intelligent", "active", "medium"],
+          "characteristics": {
+            "Size": "Medium",
+            "Temperament": "Social and talkative",
+            "Energy": "High",
+            "Coat": "Short",
+            "Grooming": "Low"
+          },
+          "funFacts": [
+            "Siamese cats are known for striking blue eyes.",
+            "They often use loud vocalizations to communicate."
+          ]
+        },
+        {
+          "id": "maine-coon",
+          "name": "Maine Coon",
+          "description": "Maine Coons are one of the largest domestic cat breeds with friendly personalities and a playful, dog-like nature.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Maine_coon_cat_Jonesy.jpg",
+          "traits": ["friendly", "playful", "family-friendly", "long-haired", "large"],
+          "characteristics": {
+            "Size": "Large",
+            "Temperament": "Friendly and playful",
+            "Energy": "Medium",
+            "Coat": "Long and shaggy",
+            "Grooming": "Medium"
+          },
+          "funFacts": [
+            "Maine Coons have tufted ears and bushy tails.",
+            "They are often called gentle giants."
+          ]
+        },
+        {
+          "id": "bengal",
+          "name": "Bengal",
+          "description": "Bengal cats have an exotic spotted coat and an adventurous personality. They love to climb, explore, and stay mentally stimulated.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/BengalCat_Stella.jpg",
+          "traits": ["energetic", "athletic", "curious", "active", "medium"],
+          "characteristics": {
+            "Size": "Medium",
+            "Temperament": "Curious and energetic",
+            "Energy": "High",
+            "Coat": "Short, spotted or marbled",
+            "Grooming": "Low"
+          },
+          "funFacts": [
+            "Bengals are known for leopard-like markings.",
+            "Many Bengals enjoy playing with water."
+          ]
+        },
+        {
+          "id": "ragdoll",
+          "name": "Ragdoll",
+          "description": "Ragdolls are gentle, affectionate cats named for their tendency to relax when held. They love human company and have striking blue eyes.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Ragdoll_from_Gatil_Ragbelas.jpg",
+          "traits": ["docile", "affectionate", "indoor", "family-friendly", "large"],
+          "characteristics": {
+            "Size": "Large",
+            "Temperament": "Docile and affectionate",
+            "Energy": "Low to medium",
+            "Coat": "Silky semi-long",
+            "Grooming": "Medium"
+          },
+          "funFacts": [
+            "Ragdolls often greet owners at the door.",
+            "They are popular in families due to calm personalities."
+          ]
+        },
+        {
+          "id": "scottish-fold",
+          "name": "Scottish Fold",
+          "description": "Scottish Folds are recognized by folded ears and an owl-like expression. They are calm, adaptable, and devoted companions.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Scottish_fold_cat_soft_look.jpg",
+          "traits": ["calm", "adaptable", "playful", "indoor", "small"],
+          "characteristics": {
+            "Size": "Small to medium",
+            "Temperament": "Calm and adaptable",
+            "Energy": "Medium",
+            "Coat": "Short or long",
+            "Grooming": "Low to medium"
+          },
+          "funFacts": [
+            "The folded ears come from a natural genetic mutation.",
+            "Not all kittens in a litter inherit folded ears."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dogs",
+      "label": "Dogs",
+      "emoji": "🐶",
+      "description": "Loyal, trainable breeds ranging from tiny lap dogs to active working companions.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Labrador_Retriever_portrait.jpg",
+      "breeds": [
+        {
+          "id": "maltese",
+          "name": "Maltese",
+          "description": "The Maltese is a small toy breed known for its silky white coat and affectionate personality. They are playful indoors and thrive on human companionship.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Maltese_Dog_1.jpg",
+          "traits": ["small", "affectionate", "apartment-friendly", "playful"],
+          "characteristics": {
+            "Size": "Small",
+            "Temperament": "Gentle and affectionate",
+            "Energy": "Medium",
+            "Coat": "Long and silky",
+            "Trainability": "Medium"
+          },
+          "funFacts": [
+            "The Maltese has been a companion dog for centuries.",
+            "Despite size, they are bold and confident."
+          ]
+        },
+        {
+          "id": "labrador-retriever",
+          "name": "Labrador Retriever",
+          "description": "Labradors are friendly, outgoing, and highly trainable. They are popular as family pets, service dogs, and search-and-rescue partners.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Labrador_Retriever_portrait.jpg",
+          "traits": ["friendly", "intelligent", "family-friendly", "active", "large"],
+          "characteristics": {
+            "Size": "Large",
+            "Temperament": "Friendly and outgoing",
+            "Energy": "High",
+            "Coat": "Short double coat",
+            "Trainability": "High"
+          },
+          "funFacts": [
+            "Labs are natural swimmers with water-resistant coats.",
+            "They are among the most common service dog breeds."
+          ]
+        },
+        {
+          "id": "german-shepherd",
+          "name": "German Shepherd",
+          "description": "German Shepherds are loyal and highly intelligent working dogs, commonly used in police, military, and service roles.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/20110425_German_Shepherd_Dog_8505.jpg",
+          "traits": ["loyal", "intelligent", "protective", "active", "large"],
+          "characteristics": {
+            "Size": "Large",
+            "Temperament": "Confident and loyal",
+            "Energy": "High",
+            "Coat": "Medium double coat",
+            "Trainability": "High"
+          },
+          "funFacts": [
+            "German Shepherds excel in obedience and scent work.",
+            "They form very strong bonds with their families."
+          ]
+        },
+        {
+          "id": "golden-retriever",
+          "name": "Golden Retriever",
+          "description": "Golden Retrievers are patient, affectionate, and eager to please. Their gentle temperament makes them excellent family and therapy dogs.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Golden_retriever.jpg",
+          "traits": ["gentle", "family-friendly", "intelligent", "active", "large"],
+          "characteristics": {
+            "Size": "Large",
+            "Temperament": "Gentle and friendly",
+            "Energy": "High",
+            "Coat": "Medium-long",
+            "Trainability": "High"
+          },
+          "funFacts": [
+            "Goldens are frequently used as therapy dogs.",
+            "They stay puppy-like and playful for years."
+          ]
+        },
+        {
+          "id": "french-bulldog",
+          "name": "French Bulldog",
+          "description": "French Bulldogs are small, muscular, and adaptable urban companions with playful personalities and signature bat-like ears.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/FrenchBulldog.jpg",
+          "traits": ["small", "adaptable", "apartment-friendly", "playful"],
+          "characteristics": {
+            "Size": "Small",
+            "Temperament": "Affectionate and cheerful",
+            "Energy": "Low to medium",
+            "Coat": "Short",
+            "Trainability": "Medium"
+          },
+          "funFacts": [
+            "Frenchies are known for expressive faces and ears.",
+            "They prefer short play sessions over long runs."
+          ]
+        },
+        {
+          "id": "bulldog",
+          "name": "Bulldog",
+          "description": "Bulldogs are stocky dogs with distinctive wrinkles. They are calm and gentle despite their tough appearance.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Bulldog_inglese.jpg",
+          "traits": ["calm", "friendly", "medium", "indoor"],
+          "characteristics": {
+            "Size": "Medium",
+            "Temperament": "Calm and friendly",
+            "Energy": "Low",
+            "Coat": "Short",
+            "Trainability": "Medium"
+          },
+          "funFacts": [
+            "Bulldogs are known for their distinctive waddling gait.",
+            "They are generally low-maintenance exercise companions."
+          ]
+        },
+        {
+          "id": "poodle",
+          "name": "Poodle",
+          "description": "Poodles are highly intelligent and athletic dogs available in Standard, Miniature, and Toy sizes. They are also known for low-shedding coats.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Poodle.jpg",
+          "traits": ["intelligent", "athletic", "trainable", "low-shedding"],
+          "characteristics": {
+            "Size": "Toy to large",
+            "Temperament": "Alert and intelligent",
+            "Energy": "Medium to high",
+            "Coat": "Curly, low-shedding",
+            "Trainability": "High"
+          },
+          "funFacts": [
+            "Poodles were originally bred as water retrievers.",
+            "Their haircut styles started as functional trims."
+          ]
+        },
+        {
+          "id": "beagle",
+          "name": "Beagle",
+          "description": "Beagles are merry hounds with excellent scent-tracking ability. They are social dogs that do well with families and other pets.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Beagle.jpg",
+          "traits": ["friendly", "curious", "active", "medium", "scent-hound"],
+          "characteristics": {
+            "Size": "Small to medium",
+            "Temperament": "Merry and curious",
+            "Energy": "High",
+            "Coat": "Short",
+            "Trainability": "Medium"
+          },
+          "funFacts": [
+            "Beagles are often used in scent detection work.",
+            "Their noses have over 200 million scent receptors."
+          ]
+        },
+        {
+          "id": "rottweiler",
+          "name": "Rottweiler",
+          "description": "Rottweilers are powerful, confident dogs that are naturally protective and deeply loyal when trained and socialized well.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Rottweiler.jpg",
+          "traits": ["protective", "loyal", "confident", "large", "working"],
+          "characteristics": {
+            "Size": "Large",
+            "Temperament": "Calm and self-assured",
+            "Energy": "Medium",
+            "Coat": "Short",
+            "Trainability": "High"
+          },
+          "funFacts": [
+            "Rottweilers were historically used as cattle-driving dogs.",
+            "They are one of the oldest herding-related breeds."
+          ]
+        },
+        {
+          "id": "yorkshire-terrier",
+          "name": "Yorkshire Terrier",
+          "description": "Yorkies are tiny, spirited dogs with big personalities and silky coats. They are affectionate and adaptable for city living.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/A_Yorkshire_Terrier.jpg",
+          "traits": ["small", "spirited", "affectionate", "apartment-friendly"],
+          "characteristics": {
+            "Size": "Small",
+            "Temperament": "Feisty and affectionate",
+            "Energy": "Medium",
+            "Coat": "Long and silky",
+            "Trainability": "Medium"
+          },
+          "funFacts": [
+            "Yorkies were originally bred to catch rats in mills.",
+            "They often behave like much larger dogs."
+          ]
+        },
+        {
+          "id": "dachshund",
+          "name": "Dachshund",
+          "description": "Dachshunds have long bodies and short legs, originally bred for badger hunting. They are curious, playful, and determined.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Dachshund.jpg",
+          "traits": ["small", "curious", "bold", "playful", "hound"],
+          "characteristics": {
+            "Size": "Small",
+            "Temperament": "Bold and lively",
+            "Energy": "Medium",
+            "Coat": "Smooth, long, or wire",
+            "Trainability": "Medium"
+          },
+          "funFacts": [
+            "The name Dachshund means badger dog in German.",
+            "They come in miniature and standard sizes."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rabbits",
+      "label": "Rabbits",
+      "emoji": "🐰",
+      "description": "Gentle herbivores that make calm, social pets with unique coat and ear types.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Holland_lop_rabbit_08.jpg",
+      "breeds": [
+        {
+          "id": "holland-lop",
+          "name": "Holland Lop",
+          "description": "Holland Lops are small, compact rabbits with lopped ears and affectionate temperaments. They are among the most popular pet rabbit breeds.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Holland_lop_rabbit_08.jpg",
+          "traits": ["small", "gentle", "friendly", "indoor", "lop-eared"],
+          "characteristics": {
+            "Size": "Small",
+            "Temperament": "Calm and affectionate",
+            "Activity": "Medium",
+            "Coat": "Short",
+            "Care": "Moderate"
+          },
+          "funFacts": [
+            "Holland Lops are known for compact bodies and droopy ears.",
+            "They enjoy gentle handling and interactive play."
+          ]
+        },
+        {
+          "id": "flemish-giant",
+          "name": "Flemish Giant",
+          "description": "Flemish Giants are one of the largest rabbit breeds and are known as gentle giants because of their docile nature.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Flemish_Giant_rabbit.jpg",
+          "traits": ["large", "docile", "gentle", "social"],
+          "characteristics": {
+            "Size": "Large",
+            "Temperament": "Docile and patient",
+            "Activity": "Low to medium",
+            "Coat": "Short dense",
+            "Care": "Moderate"
+          },
+          "funFacts": [
+            "Flemish Giants can weigh over 15 pounds.",
+            "They need roomy enclosures and floor time."
+          ]
+        },
+        {
+          "id": "lionhead",
+          "name": "Lionhead",
+          "description": "Lionhead rabbits have a woolly mane around their head and are energetic, curious companions that bond well with regular handling.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Lionhead_rabbit.jpg",
+          "traits": ["small", "energetic", "curious", "long-haired"],
+          "characteristics": {
+            "Size": "Small",
+            "Temperament": "Playful and bold",
+            "Activity": "Medium to high",
+            "Coat": "Mane with wool",
+            "Care": "High grooming"
+          },
+          "funFacts": [
+            "Their lion-like mane is the breed hallmark.",
+            "Regular brushing keeps their mane healthy."
+          ]
+        },
+        {
+          "id": "rex-rabbit",
+          "name": "Rex Rabbit",
+          "description": "Rex Rabbits are famous for plush velvety fur and calm, gentle personalities that make them easy to handle.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/Rex_rabbit.jpg",
+          "traits": ["calm", "gentle", "velvety-coat", "medium"],
+          "characteristics": {
+            "Size": "Medium",
+            "Temperament": "Calm and friendly",
+            "Activity": "Medium",
+            "Coat": "Dense velvety",
+            "Care": "Low to moderate"
+          },
+          "funFacts": [
+            "Rex fur stands upright, creating a velvet feel.",
+            "They are often chosen as therapy rabbits."
+          ]
+        },
+        {
+          "id": "angora",
+          "name": "Angora",
+          "description": "Angora rabbits are prized for ultra-soft wool and gentle temperaments, but require frequent grooming to prevent matting.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Angora_rabbit_english.jpg",
+          "traits": ["long-haired", "gentle", "calm", "small"],
+          "characteristics": {
+            "Size": "Small to medium",
+            "Temperament": "Calm and serene",
+            "Activity": "Low to medium",
+            "Coat": "Long wool",
+            "Care": "High grooming"
+          },
+          "funFacts": [
+            "Angora wool is one of the softest natural fibers.",
+            "Routine grooming is essential for their health."
+          ]
+        },
+        {
+          "id": "mini-rex",
+          "name": "Mini Rex",
+          "description": "Mini Rex rabbits share the plush velvety coat of standard Rex rabbits in a compact size and are curious indoor companions.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Mini_Rex_Rabbit.jpg",
+          "traits": ["small", "friendly", "curious", "velvety-coat", "indoor"],
+          "characteristics": {
+            "Size": "Small",
+            "Temperament": "Friendly and curious",
+            "Activity": "Medium",
+            "Coat": "Velvety short",
+            "Care": "Low"
+          },
+          "funFacts": [
+            "Mini Rex coats feel plush due to short upright fur.",
+            "They do well in homes with enrichment toys."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "birds",
+      "label": "Birds",
+      "emoji": "🐦",
+      "description": "Bright, social birds known for intelligence, song, and playful personalities.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/Melopsittacus_undulatus_-on_perch-8.jpg",
+      "breeds": [
+        {
+          "id": "budgerigar",
+          "name": "Budgerigar",
+          "description": "Budgies are small parrots that are social, vocal, and beginner-friendly. They thrive with daily interaction and enrichment.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/Melopsittacus_undulatus_-on_perch-8.jpg",
+          "traits": ["small", "social", "vocal", "beginner-friendly"],
+          "characteristics": {
+            "Size": "Small",
+            "Temperament": "Social and playful",
+            "Activity": "High",
+            "Lifespan": "7 to 15 years",
+            "Care": "Moderate"
+          },
+          "funFacts": [
+            "Budgies can learn words and sounds.",
+            "They are among the world’s most popular pet birds."
+          ]
+        },
+        {
+          "id": "cockatiel",
+          "name": "Cockatiel",
+          "description": "Cockatiels are gentle companion birds with expressive crests and friendly temperaments. Many whistle tunes and mimic household sounds.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Cockatielmale.jpg",
+          "traits": ["small", "friendly", "whistling", "social"],
+          "characteristics": {
+            "Size": "Small",
+            "Temperament": "Gentle and affectionate",
+            "Activity": "Medium",
+            "Lifespan": "10 to 20 years",
+            "Care": "Moderate"
+          },
+          "funFacts": [
+            "Cockatiels communicate mood through their crest feathers.",
+            "They love shoulder perches and interaction."
+          ]
+        },
+        {
+          "id": "canary",
+          "name": "Canary",
+          "description": "Canaries are prized for bright colors and melodic songs. They are best appreciated as observing companions rather than handling pets.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Serinus_canaria_male_-Hungary-8a.jpg",
+          "traits": ["small", "songbird", "independent", "colorful"],
+          "characteristics": {
+            "Size": "Small",
+            "Temperament": "Independent and calm",
+            "Activity": "Medium",
+            "Lifespan": "8 to 12 years",
+            "Care": "Low to moderate"
+          },
+          "funFacts": [
+            "Male canaries are usually the strongest singers.",
+            "Canaries were historically used in coal mines for safety alerts."
+          ]
+        },
+        {
+          "id": "african-grey",
+          "name": "African Grey Parrot",
+          "description": "African Greys are exceptionally intelligent parrots known for advanced mimicry and strong social bonds with caretakers.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/African_grey_parrot_%28Psittacus_erithacus%29.jpg",
+          "traits": ["intelligent", "vocal", "social", "large"],
+          "characteristics": {
+            "Size": "Medium",
+            "Temperament": "Intelligent and sensitive",
+            "Activity": "High",
+            "Lifespan": "40 to 60 years",
+            "Care": "High"
+          },
+          "funFacts": [
+            "African Greys are considered among the smartest birds.",
+            "They need regular mental stimulation to stay healthy."
+          ]
+        }
+      ]
+    }
+  ]
+}
