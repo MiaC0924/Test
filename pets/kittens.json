@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Persian",
+    "description": "Persians are calm, gentle cats known for their long, luxurious coats and sweet expressions. They thrive in quiet indoor environments and love being pampered. Their laid-back nature makes them ideal lap cats and affectionate companions.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Persian_cat_(flipped).jpg"
+  },
+  {
+    "name": "Siamese",
+    "description": "Siamese cats are one of the oldest and most recognized breeds, known for their striking blue eyes and color-point coat. They are vocal, social, and highly intelligent, often forming strong bonds with their owners and following them around the house.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Siamese_cat.jpg"
+  },
+  {
+    "name": "Maine Coon",
+    "description": "Maine Coons are one of the largest domestic cat breeds, recognized for their tufted ears, bushy tails, and friendly personalities. Often called the 'dogs of the cat world,' they are playful, sociable, and get along well with children and other pets.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Maine_coon_cat_Jonesy.jpg"
+  },
+  {
+    "name": "Bengal",
+    "description": "Bengal cats have a wild, exotic appearance with their distinctive spotted or marbled coat that resembles a leopard. They are energetic, curious, and highly intelligent. Bengals love to climb, explore, and even play in water, making them an adventurous companion.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/BengalCat_Stella.jpg"
+  },
+  {
+    "name": "Ragdoll",
+    "description": "Ragdolls are large, gentle cats named for their tendency to go limp when picked up. They are docile, affectionate, and love human company, often greeting owners at the door. Their blue eyes and silky semi-long coat make them strikingly beautiful.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Ragdoll_from_Gatil_Ragbelas.jpg"
+  },
+  {
+    "name": "Scottish Fold",
+    "description": "Scottish Folds are instantly recognizable by their unique folded ears that give them an owl-like appearance. They are calm, adaptable, and enjoy interactive play. Scottish Folds tend to be devoted to their families and are comfortable in a variety of living situations.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Scottish_fold_cat_soft_look.jpg"
+  }
+]

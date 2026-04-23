@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Holland Lop",
+    "description": "Holland Lops are small, compact rabbits with characteristic lopped ears and a rounded, friendly face. They are one of the most popular pet rabbit breeds due to their calm, affectionate temperament. They enjoy gentle handling and make wonderful companions for families and singles alike.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Holland_lop_rabbit_08.jpg"
+  },
+  {
+    "name": "Flemish Giant",
+    "description": "The Flemish Giant is one of the largest rabbit breeds, known for its impressive size and gentle personality. Despite their bulk, they are docile, calm, and patient, earning them the nickname 'Gentle Giants.' They are social animals that thrive on human interaction and space to roam.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Flemish_Giant_rabbit.jpg"
+  },
+  {
+    "name": "Lionhead",
+    "description": "Lionhead rabbits are named for the distinctive mane of wool around their head, resembling a lion's mane. They are small, energetic, and playful with a bold personality. Lionheads are social and curious, forming strong bonds with their owners when handled regularly from a young age.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Lionhead_rabbit.jpg"
+  },
+  {
+    "name": "Rex Rabbit",
+    "description": "Rex Rabbits are known for their plush, velvety coat that stands upright and feels like velvet to the touch. They are intelligent, calm, and motherly in nature. Rex rabbits are often used as therapy animals due to their gentle demeanor and ease of handling.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/Rex_rabbit.jpg"
+  },
+  {
+    "name": "Angora",
+    "description": "Angora rabbits produce one of the finest and softest fibers in the world, making them popular among fiber enthusiasts. They are gentle and calm, but require regular grooming to prevent their long, woolly coat from matting. Despite the upkeep, Angoras make affectionate and serene companions.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Angora_rabbit_english.jpg"
+  },
+  {
+    "name": "Mini Rex",
+    "description": "Mini Rex rabbits are a smaller version of the Rex breed, sharing the same distinctive velvety coat. They are friendly, curious, and enjoy exploring their environment. Mini Rex rabbits are well-suited to indoor living and form close bonds with attentive owners who provide enrichment and affection.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Mini_Rex_Rabbit.jpg"
+  }
+]
