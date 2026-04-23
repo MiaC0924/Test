@@ -16,6 +16,21 @@ This is a test repository for demonstration and testing purposes.
 ## 📂 Structure
 - `README.md` - This documentation file
 - `TestFolder/` - Contains test files and examples
+- `dog/` - Dog breed information (`breeds.md`)
+- `pets/` - Kitten and rabbit breed data (`kittens.json`, `rabbits.json`)
+- `pet-app/` - React web app for browsing pet breeds
+
+## 🐾 Pet Breeds Explorer (React App)
+See [`pet-app/README.md`](pet-app/README.md) for full instructions on running the app locally.
+
+**Quick start:**
+```bash
+cd pet-app
+npm install
+npm run dev
+```
+
+Then open **http://localhost:5173** in your browser.
 
 ## 🧪 Testing
 See the `TestFolder` directory for test files and examples.

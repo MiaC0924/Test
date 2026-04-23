@@ -1,16 +1,53 @@
-# React + Vite
+# 🐾 Pet Breeds Explorer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React app for browsing kittens 🐱, puppies 🐶, and rabbits 🐰 — with breed photos and descriptions.
 
-Currently, two official plugins are available:
+## Prerequisites
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- [Node.js](https://nodejs.org/) v18 or higher
+- npm (comes bundled with Node.js)
 
-## React Compiler
+## Running locally
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+```bash
+# 1. Navigate into the pet-app directory
+cd pet-app
 
-## Expanding the ESLint configuration
+# 2. Install dependencies (only needed the first time)
+npm install
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# 3. Start the development server
+npm run dev
+```
+
+The dev server starts with hot module replacement (HMR). Open the URL shown in your terminal — typically **http://localhost:5173** — in your browser.
+
+## Other commands
+
+| Command | Description |
+|---|---|
+| `npm run dev` | Start the development server at `http://localhost:5173` |
+| `npm run build` | Build the app for production (output in `dist/`) |
+| `npm run preview` | Preview the production build locally |
+| `npm run lint` | Run ESLint on all source files |
+
+## Project structure
+
+```
+pet-app/
+├── public/               # Static assets (kittens.json, rabbits.json)
+├── src/
+│   ├── data/
+│   │   └── animals.js    # All breed data (kittens, puppies, rabbits)
+│   ├── pages/
+│   │   ├── Home.jsx      # Homepage with animal selection cards
+│   │   └── AnimalDetail.jsx  # Breed grid detail page
+│   ├── App.jsx           # Root component with navigation state
+│   ├── App.css           # Component styles
+│   └── main.jsx          # App entry point
+└── package.json
+```
+
+## Data sources
+
+Breed images are served directly from [Wikimedia Commons](https://commons.wikimedia.org/). No API key is required. If an image fails to load, it is hidden automatically.
