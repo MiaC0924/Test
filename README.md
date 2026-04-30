@@ -17,7 +17,7 @@ This is a test repository for demonstration and testing purposes.
 - `README.md` - This documentation file
 - `TestFolder/` - Contains test files and examples
 - `dog/` - Dog breed information (`breeds.md`)
-- `pets/` - Kitten and rabbit breed data (`kittens.json`, `rabbits.json`)
+- `pets/` - Kitten, dog, and rabbit breed data (`kittens.json`, `dog.json`, `rabbits.json`)
 - `pet-app/` - React web app for browsing pet breeds
 
 ## 🐾 Pet Breeds Explorer (React App)
