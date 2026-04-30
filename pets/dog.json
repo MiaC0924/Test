@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Golden Retriever",
+    "description": "Golden Retrievers are friendly, intelligent dogs known for their gentle temperament and loyalty to their families.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Golden_retriever.jpg"
+  },
+  {
+    "name": "Beagle",
+    "description": "Beagles are curious, energetic scent hounds with a cheerful personality and a great sense of smell.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Beagle.jpg"
+  },
+  {
+    "name": "Poodle",
+    "description": "Poodles are highly intelligent and trainable dogs that come in multiple sizes and have a distinctive curly coat.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Poodle.jpg"
+  }
+]
