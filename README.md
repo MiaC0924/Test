@@ -3,6 +3,13 @@
 ## 📋 Overview
 This is a test repository for demonstration and testing purposes.
 
+## 🐱 Ascii Cat
+```text
+ /\_/\
+( o.o )
+ > ^ <
+```
+
 ## ⭐ Features
 - Basic repository structure
 - Sample test files
