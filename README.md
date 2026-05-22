@@ -37,3 +37,70 @@ See the `TestFolder` directory for test files and examples.
 
 ## 🤝 Contributing
 This is a test repository. Feel free to experiment and test changes.
+
+## 🐱 ASCII Cat
+```text
+Cat 1
+ /\_/\
+( o.o )
+ > ^ <
+
+Cat 2
+ /\_/\ 
+( -.- )
+ > ^ <
+
+Cat 3
+ /\_/\ 
+( 0.0 )
+ > ^ <
+
+Cat 4
+ /\_/\ 
+( ^.^ )
+ > ^ <
+
+Cat 5
+ /\_/\ 
+( =.= )
+ > ^ <
+
+Cat 6
+ /\_/\ 
+( -o- )
+ > ^ <
+
+Cat 7
+ /\_/\ 
+( •.• )
+ > ^ <
+
+Cat 8
+ /\_/\ 
+( >.< )
+ > ^ <
+
+Cat 9
+ /\_/\ 
+( @.@ )
+ > ^ <
+
+Cat 10
+ /\_/\ 
+( *_* )
+ > ^ <
+
+Cat 11
+ /\_/\ 
+( owo )
+ > ^ <
+```
+
+## 🐶 ASCII Dog
+```text
+ / \__
+(    @\___
+ /         O
+/   (_____/
+/_____/   U
+```
