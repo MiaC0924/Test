@@ -38,12 +38,15 @@ See the `TestFolder` directory for test files and examples.
 ## 🤝 Contributing
 This is a test repository. Feel free to experiment and test changes.
 
-## 🐶 ASCII Animals
+## 🐱 ASCII Cat
 ```text
  /\_/\
 ( o.o )
  > ^ <
+```
 
+## 🐶 ASCII Dog
+```text
  / \__
 (    @\___
  /         O
