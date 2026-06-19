@@ -35,5 +35,31 @@ Then open **http://localhost:5173** in your browser.
 ## 🧪 Testing
 See the `TestFolder` directory for test files and examples.
 
+## 🐾 ASCII Art Animals
+
+### Cat
+```
+ /\_/\
+( o.o )
+ > ^ <
+```
+
+### Dog
+```
+ / \__
+(    @\___
+/         O
+/   (_____/
+/_____/   U
+```
+
+### Butterfly
+```
+  ,*.
+ (_o_)
+(~)Y(~)
+  !-!
+```
+
 ## 🤝 Contributing
 This is a test repository. Feel free to experiment and test changes.
