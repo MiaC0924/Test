@@ -1,5 +1,15 @@
 # 📁 Test Repository
 
+```
+     /\_/\                          /\_/\
+    ( o.o )                        ( o.o )
+     > ^ <                          > ^ <
+    /|   |\                        /|   |\
+   (_|   |_)                      (_|   |_)
+  
+      Cat                              Cat
+```
+
 ## 📋 Overview
 This is a test repository for demonstration and testing purposes.
 
