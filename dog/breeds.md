@@ -1,4 +1,4 @@
-# 11 Dog Breeds
+# 12 Dog Breeds
 
 ## 1. Maltese
 ![Maltese](https://upload.wikimedia.org/wikipedia/commons/c/c9/Maltese_Dog_1.jpg)
@@ -54,3 +54,8 @@ Yorkshire Terriers, or "Yorkies," are small dogs with big personalities. They ar
 ![Dachshund](https://upload.wikimedia.org/wikipedia/commons/9/9c/Dachshund.jpg)
 
 Dachshunds, also known as "wiener dogs," have a long body and short legs originally bred for hunting badgers. They are playful, curious, and tenacious. Dachshunds come in standard and miniature sizes and in a variety of coat types, making them a uniquely charming breed.
+
+## 12. Siberian Husky
+![Siberian Husky](https://upload.wikimedia.org/wikipedia/commons/d/d4/Siberian_Husky_pho.jpg)
+
+Siberian Huskies are athletic, energetic dogs originally bred to pull sleds in cold climates. They are known for their striking appearance, thick double coat, and friendly temperament. Huskies are intelligent and social, and they thrive with regular exercise and active families.
