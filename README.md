@@ -35,5 +35,34 @@ Then open **http://localhost:5173** in your browser.
 ## 🧪 Testing
 See the `TestFolder` directory for test files and examples.
 
+## 🐱 ASCII Cats
+A little gallery of friendly ASCII cats:
+
+```
+ /\_/\
+( o.o )
+ > ^ <
+```
+
+```
+  /\___/\
+ (  o o  )
+ (  =^=  )
+  (______)
+```
+
+```
+      |\__/,|   (`\
+    _.|o o  |_   ) )
+  -(((---(((--------
+```
+
+```
+ ╱|、
+(˚ˎ 。7
+ |、˜〵
+ じしˍ,)ノ
+```
+
 ## 🤝 Contributing
 This is a test repository. Feel free to experiment and test changes.
