@@ -35,5 +35,15 @@ Then open **http://localhost:5173** in your browser.
 ## 🧪 Testing
 See the `TestFolder` directory for test files and examples.
 
+## 🐱 ASCII Cat
+```
+ /\_____/\
+(  o   o  )
+(  =   =  )
+ (  ---  )
+  )     (
+ (___|___)
+```
+
 ## 🤝 Contributing
 This is a test repository. Feel free to experiment and test changes.
