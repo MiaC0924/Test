@@ -40,7 +40,7 @@ This is a test repository. Feel free to experiment and test changes.
 
 ## 🐱 ASCII Cat
 ```text
- /\_/\
-( o.o )
- > ^ <
+ /\_/\       /\_/\       /\_/\
+( o.o )     ( =^.^= )    ( -.- )
+ > ^ <       (")(")       > ^ <
 ```
